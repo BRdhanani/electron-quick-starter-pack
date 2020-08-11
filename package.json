@@ -1,0 +1,17 @@
+{
+  "name": "electron-quick-starter-pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Brijesh Dhanani",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.7.6"
+  },
+  "devDependencies": {
+    "electron-packager": "^9.0.1"
+  }
+}
